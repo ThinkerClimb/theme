@@ -1,5 +1,5 @@
 {
-    "name": "PAC-MIYOO",
+    "name": "PAC-ANBERNIC",
     "author": "tenlevels",
     "batteryPercentage": {
         "visible": true,
@@ -31,7 +31,7 @@
         "color": "#dcdcdc"
     },
     "list": {
-        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "font": "/mnt/SDCARD/anbernic/app/wqy-microhei.ttc",
         "size": 24,
         "color": "#dcdcdc"
     },

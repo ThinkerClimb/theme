@@ -1,7 +1,7 @@
 {
     "name": "3DS mini",
     "author": "MarsTaco",
-    "description": "3DS inspired theme for Miyoo Mini",
+    "description": "3DS inspired theme for Anbernic",
     "batteryPercentage": {
         "visible": false,
         "color": "#FFFFFF"

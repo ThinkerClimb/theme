@@ -1,11 +1,11 @@
 # `M` *by* `tenlevels`
 
-Minimal theme inspired by Miyoo logo
+Minimal theme inspired by Anbernic logo
 
 
 ## Credits
 
-**M:** From Miyoo logo
+**M:** From Anbernic logo
 
 **Fonts:** Gravity Regular and Gravity Light by Vincenzo Vuono
 

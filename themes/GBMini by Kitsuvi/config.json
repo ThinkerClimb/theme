@@ -6,12 +6,12 @@
         "color": "#FFFFFF"
     },
     "title": {
-        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "font": "/mnt/SDCARD/anbernic/app/HENB.TTF",
         "size": 36,
         "color": "#333333"
     },
     "hint": {
-        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "font": "/mnt/SDCARD/anbernic/app/HENB.TTF",
         "size": 40,
         "color": "#333333"
     },
@@ -22,14 +22,14 @@
         "color": "#333333"
     },
     "grid": {
-        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "font": "/mnt/SDCARD/anbernic/app/HENB.TTF",
         "grid1x4": 25,
         "grid3x4": 18,
         "color": "#707070",
         "selectedcolor": "#707070"
     },
     "list": {
-        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "font": "/mnt/SDCARD/anbernic/app/HENB.TTF",
         "size": 25,
         "color": "#707070"
     },

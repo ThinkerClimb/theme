@@ -14,7 +14,7 @@ If you want to unhide the console text names, replace "AdobeBlank.ttf" by "Poppi
 PS MOD:
 -------
 
-The theme can be modified to match physical face buttons on your Miyoo mini if PS button mod is used. ABXY buttons is used as default.
+The theme can be modified to match physical face buttons on your Anbernic if PS button mod is used. ABXY buttons is used as default.
 
 1. Open "PS MOD" folder inside `skin/mods`
 2. Copy all files and folders

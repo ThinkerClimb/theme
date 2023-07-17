@@ -1,12 +1,12 @@
 {
     "name": "Hippo Stock",
     "title": {
-        "font": "/mnt/SDCARD/miyoo/app/Exo-2-Bold-Italic.ttf",
+        "font": "/mnt/SDCARD/anbernic/app/Exo-2-Bold-Italic.ttf",
         "size": 36,
         "color": "#FFFFFF"
     },
     "hint": {
-        "font": "/mnt/SDCARD/miyoo/app/Exo-2-Bold-Italic.ttf",
+        "font": "/mnt/SDCARD/anbernic/app/Exo-2-Bold-Italic.ttf",
         "size": 40,
         "color": "#FFFFFF"
     },
@@ -17,14 +17,14 @@
         "color": "#FFFFFF"
     },
     "grid": {
-        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "font": "/mnt/SDCARD/anbernic/app/HENB.TTF",
         "grid1x4": 25,
         "grid3x4": 18,
         "color": "#686868",
         "selectedcolor": "#FFFFFF"
     },
     "list": {
-        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "font": "/mnt/SDCARD/anbernic/app/HENB.TTF",
         "size": 25,
         "color": "#FFFFFF"
     }

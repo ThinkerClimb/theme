@@ -1,7 +1,7 @@
-# `PAC-MIYOO` *by* `tenlevels`
+# `PAC-ANBERNIC` *by* `tenlevels`
 
 PAC-MAN theme inspired by PAC-MAN game 
-(originally a gift for my son to enjoy on his Miyoo mini)
+(originally a gift for my son to enjoy on his Anbernic)
 
 
 ## Credits
