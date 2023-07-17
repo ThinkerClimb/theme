@@ -1,0 +1,38 @@
+{
+    "name": "Analogue",
+    "author": "Aemiii91",
+    "description": "Minimalist theme inspired by Analogue OS",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#FFFFFF",
+        "offsetY": 2
+    },
+    "title": {
+        "font": "AnalogueOS-Regular.otf",
+        "size": 26,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "AnalogueOS-Regular.otf",
+        "size": 18,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#333333"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "AnalogueOS-Regular.otf",
+        "grid1x4": 26,
+        "grid3x4": 26,
+        "color": "#333333",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}

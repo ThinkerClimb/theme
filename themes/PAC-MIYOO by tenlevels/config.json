@@ -1,0 +1,42 @@
+{
+    "name": "PAC-MIYOO",
+    "author": "tenlevels",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#dcdcdc",
+        "font": "RetroGaming-CAPS.ttf",
+        "size": 20,
+        "onleft": true
+    },
+    "title": {
+        "font": "RetroGaming-CAPS.ttf",
+        "size": 20,
+        "color": "#dcdcdc"
+    },
+    "hint": {
+        "font": "RetroGaming-CAPS.ttf",
+        "size": 1,
+        "color": "#0a0a0a"
+    },
+    "currentpage": {
+        "color": "#0a0a0a"
+    },
+    "total": {
+        "color": "#0a0a0a"
+    },
+    "grid": {
+        "font": "RetroGaming-CAPS.ttf",
+        "grid1x4": 20,
+        "grid3x4": 20,
+        "color": "#dcdcdc"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#dcdcdc"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}

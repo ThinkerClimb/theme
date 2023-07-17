@@ -1,0 +1,36 @@
+{
+    "name": "Onion Boy",
+    "author": "PixelShift + Jeltron",
+    "title": {
+        "font": "pixelmix.otf",
+        "size": 24,
+        "color": "#bcffb4"
+    },
+    "hint": {
+        "font": "ChronoType.otf",
+        "size": 1,
+        "color": "#bcffb4"
+    },
+    "currentpage": {
+        "color": "#1e694c"
+    },
+    "total": {
+        "color": "#1e694c"
+    },
+    "grid": {
+        "font": "ChronoType.otf",
+        "grid1x4": 36,
+        "grid3x4": 18,
+        "color": "#67c867",
+        "selectedcolor": "#bcffb4"
+    },
+    "list": {
+        "font": "pixelmix.otf",
+        "size": 24,
+        "color": "#bcffb4"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
